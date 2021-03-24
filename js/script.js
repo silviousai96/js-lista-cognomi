@@ -32,3 +32,32 @@ for( var i=0; i < cognomi.length; i++ ) {
     }
     
 }
+
+
+//VERSIONE CON IL CICLO WHILE:
+
+//var i=0;
+// while ( i < cognomi.length ) {
+//     var thisCogn = cognomi[i];
+
+//     document.getElementById('lista-cognomi').innerHTML += '<li>' + thisCogn + '</li>';
+    
+//     if ( thisCogn == inputCognome ) {
+//         alert('Il tuo cognome è in posizione: ' + (i+1) );
+//     }
+
+//     i++;
+    
+// }
+
+
+
+
+
+
+
+
+
+
+    
+ 
